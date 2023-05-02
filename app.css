@@ -1,0 +1,21 @@
+body {
+    background-color: darkgreen;
+}
+h1 {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+button {
+    padding:10px;
+    margin:10px;
+    display:block;
+}
+.deck div {
+    display: inline-block;
+}
+#deck-button {
+    display: block;
+    margin:auto;
+}
